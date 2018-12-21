@@ -1,0 +1,7 @@
+{
+  "name": "redux-catcher",
+  "version": "0.1.0",
+  "main": "index.js",
+  "author": "K.Asai <kra.ceifer@gmail.com>",
+  "license": "MIT"
+}
