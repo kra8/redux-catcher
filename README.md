@@ -1,7 +1,7 @@
 # Redux Catcher
 Error handling for redux.  
 
-Support Flux Standard Action.  
+Support [Flux Standard Action](https://github.com/redux-utilities/flux-standard-action).  
 Example action for a rejected Promise:   
 ``` js
 {
