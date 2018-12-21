@@ -11,6 +11,15 @@ Example action for a rejected Promise:
 }
 ```
 
+# Install
+```
+yarn add redux-catcher
+```
+or
+```
+npm i redux-catcher
+```
+
 # Apply middleware
 ``` js
 const handler = action => {
