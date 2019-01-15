@@ -1,7 +1,10 @@
 {
   "name": "redux-catcher",
-  "version": "0.2.0",
+  "description": "Error handling for redux.",
+  "keywords": ["redux", "error", "error handling"],
+  "version": "0.2.1",
   "main": "src/index.js",
   "author": "K.Asai <kra.ceifer@gmail.com>",
+  "repository": "https://github.com/kra8/redux-catcher",
   "license": "MIT"
 }
